@@ -307,10 +307,7 @@ while True:
     # if player_rect.collidepoint(mouse_pos):
     #     #print('collision another way')
     #     print(pygame.mouse.get_pressed()) #gives boolean false false false until leftclick true, middleclick true, rightclick true.
-
-
-
-#Tutorial: The ultimate introduction to Pygame
-# #Upto: 3.25:50min.
+#Tutorial reference from: The ultimate introduction to Pygame
+#Some code left in to show writing before classes and some fun laser stuff.
 
 
